@@ -1,2 +1,0 @@
-# cool-text
-cool-text
